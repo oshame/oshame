@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm dankor</h1>
 <h3 align="center">A passionate fullstack paster.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshame" alt="oshame" /></a> </p>
-
 - 🔭 I’m currently working on [Veltrix-Anticheat](https://github.com/oshame/Veltrix-Anticheat)
 
 <h3 align="left">Connect with me:</h3>
